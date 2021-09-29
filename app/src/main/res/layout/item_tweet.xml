@@ -34,6 +34,8 @@
         android:layout_marginStart="5dp"
         android:layout_marginTop="2dp"
         android:layout_toEndOf="@+id/ivProfileImage"
-        tools:text="Hello World! It's my first tweet" />
+        tools:text="Hello World! It's my first tweet"
+        android:autoLink="all"
+        android:linksClickable="true"/>
 
 </RelativeLayout>

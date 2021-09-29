@@ -1,11 +1,9 @@
 <resources>
 
     <style name="AppBaseTheme" parent="Theme.AppCompat.Light.DarkActionBar">
-        <!--
-            Theme customizations available in newer API levels can go in
-            res/values-vXX/styles.xml, while customizations related to
-            backward-compatibility can go here.
-        -->
+        <item name="colorControlNormal">#34A7FF</item>
+        <item name="colorControlActivated">#34A7FF</item>
+        <item name="colorControlHighlight">#34A7FF</item>
     </style>
 
     <!-- Application theme. -->
